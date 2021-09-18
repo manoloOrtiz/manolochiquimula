@@ -1,0 +1,149 @@
+html{
+	background-color: rgb(20, 149, 180);
+}
+.header {
+	background-image: url("fondo_P1.jpg");
+	width: 1500px;
+	height: 90px;
+	position: absolute;
+	left: 100px;
+	text-align: center;
+	color:white;
+	border-radius: 6px 6px 0px 0px;
+}
+ .titulo{
+ 	font-size: 50px;
+ 	font-family: fantasy;
+}
+.logo_img{
+	position: absolute;
+	Left:15px;
+	top:6px;
+}
+nav{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	left: 15px;
+	top: 85px;
+}
+nav ul{
+	list-style: none;
+	margin: 15px 15px 5px 15px;
+	padding: 0px 0px;
+}
+nav ul li{
+	float:left;
+	margin-right:20px;
+}
+nav ul li a:hover{
+	font-size: 25px;
+	color:orange;
+	font-weight: bold;
+}
+.c1{
+	position:absolute;
+	top: 120px;
+	left:600px;
+	font-family: cursive;
+	color: orange;
+	text-decoration: underline;
+}
+.r1{
+	width: 300px;
+	position:absolute;
+	top: 180px;
+	left:580px;
+}
+.i1{
+	position: absolute;
+	top:180px;
+	left:900px;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+
+.c2{
+	position:absolute;
+	top: 370px;
+	left:600px;
+	font-family: cursive;
+	color: blue;
+	text-decoration: underline;
+}
+.r2{
+	width: 300px;
+	position:absolute;
+	top: 420px;
+	left:580px;
+}
+.i2{
+	position: absolute;
+	top:450px;
+	left:900px;
+	box-shadow: 10px 8px 8px -5px orange;
+}
+
+.c3{
+	position:absolute;
+	top: 430px;
+	left:120px;
+	font-family: cursive;
+	color: orange;
+	text-decoration: underline;
+}
+.r3{
+	width: 300px;
+	position:absolute;
+	top: 470px;
+	left:120px;
+}
+.i3{
+	position: absolute;
+	top:600px;
+	left:120px;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+
+.c4{
+	position:absolute;
+	top: 850px;
+	left:120px;
+	font-family: cursive;
+	color: blue;
+	text-decoration: underline;
+}
+.r4{
+	width: 300px;
+	position:absolute;
+	top: 750px;
+	left:550px;
+}
+.i4{
+	position: absolute;
+	top:750px;
+	left:910px;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+.deco{
+	position: absolute;
+	top:120px;
+	right: 5px;
+	box-shadow: 10px 8px 8px -5px orange;
+}
+.foot{
+	position: absolute;
+	top:1050px;
+	left:0px;
+	background-color: orange;
+	width: 1500px;
+	height: 50px;
+	
+}
+.foot_h3{
+	top:-15px;
+position: absolute;
+text-decoration: underline;
+	color: white;
+	width: 1500px;
+	height: 50px;
+	font-family: cursive;

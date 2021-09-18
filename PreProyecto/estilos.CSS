@@ -1,0 +1,136 @@
+html{
+	background-color: rgb(20, 149, 180);
+}
+.header {
+	background-image: url("fondo_P1.jpg");
+	width: 1500px;
+	height: 90px;
+	position: absolute;
+	left: 100px;
+	text-align: center;
+	color:white;
+	border-radius: 6px 6px 0px 0px;
+
+}
+ .titulo{
+ 	font-size: 50px;
+ 	font-family: fantasy;
+}
+.logo_img{
+	position: absolute;
+	Left:15px;
+	top:6px;
+}
+nav{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	left: 100px;
+	top: 90px;
+}
+nav ul{
+	list-style: none;
+	margin: 15px 15px 5px 15px;
+	padding: 0px 0px;
+}
+nav ul li{
+	float:left;
+	margin-right:20px;
+}
+nav ul li a:hover{
+	font-size: 25px;
+	color:orange;
+	font-weight: bold;
+}
+figure{
+	text-align:center;
+}
+figure.banner{
+	position: absolute;
+	Left:60px;
+	top:110px;
+}
+.A{
+	font-family: cursive;
+	color: orange;
+	position: absolute;
+	right: 400px;
+	top: 700px;
+}
+article{
+	width: 1000px;
+	height: 400px;
+	position:absolute;
+	left: 350px;
+	top:110px;
+	text-align: justify;
+}
+article img{
+	border-radius: 10px;
+	float:right;
+	margin: 20px;
+}
+.imagenlogo{
+	position: absolute;
+	right: 50px
+	top: 150px;
+}
+
+.contenedor{
+	width: 500px;
+	height: 400px;
+	position:absolute;
+	left: 20px;
+	top:380px;
+	text-align: justify;
+	color: white;
+}
+.titulo_cont{
+	background-color: orange;
+	color:blue;
+	font-family: cursive;
+	left:0px;
+}
+.imagenlogo{
+	top:380px;
+	left: 600px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+.imagen3{
+	top:510px;
+	left: 100px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px orange;
+}
+
+.imagen2{
+	top:380px;
+	left: 850px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+.Yo{
+	top:360px;
+	left: 1100px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px orange;
+}
+.foot{
+	position: absolute;
+	top:760px;
+	left:100px;
+	background-color: orange;
+	width: 1500px;
+	height: 50px;
+	
+}
+.foot_h3{
+	top:-15px;
+position: absolute;
+text-decoration: underline;
+	color: white;
+	width: 1500px;
+	height: 50px;
+	font-family: cursive;
+}

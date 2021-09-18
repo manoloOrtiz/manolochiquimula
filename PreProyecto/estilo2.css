@@ -1,0 +1,139 @@
+html{
+	background-color: rgb(20, 149, 180);
+}
+.header {
+	background-image: url("fondo_P1.jpg");
+	width: 1500px;
+	height: 90px;
+	position: absolute;
+	left: 100px;
+	text-align: center;
+	color:white;
+	border-radius: 6px 6px 0px 0px;
+
+}
+ .titulo{
+ 	font-size: 50px;
+ 	font-family: fantasy;
+}
+.logo_img{
+	position: absolute;
+	Left:15px;
+	top:6px;
+}
+nav{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	left: 15px;
+	top: 85px;
+}
+nav ul{
+	list-style: none;
+	margin: 15px 15px 5px 15px;
+	padding: 0px 0px;
+}
+nav ul li{
+	float:left;
+	margin-right:20px;
+}
+nav ul li a:hover{
+	font-size: 25px;
+	color:orange;
+	font-weight: bold;
+}
+figure.imagenclima{
+	position: absolute;
+	right:0px;
+	top:110px;
+}
+.titulofigure{
+	background-color: aqua;
+	width: 400px;
+	text-align:center;
+	color:orange;
+	position: absolute;
+	left:30px;
+	top:110px;
+	font-family: cursive;
+}
+.respuesta1{
+	width: 400px;
+	text-align:center;
+	color:white;
+	position: absolute;
+	left:30px;
+	top:180px;
+}
+article{
+	width: 1000px;
+	height: 400px;
+	position:absolute;
+	left: 350px;
+	top:110px;
+	text-align: justify;
+}
+
+
+.a{
+	top:100px;
+	right:250px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px blue;
+}
+.titu{
+	width: 1000px;
+	height: 400px;
+	position:absolute;
+	left: 30px;
+	top:330px;
+	text-align: justify;
+	color: yellow;
+}
+.temp{
+	top:330px;
+	right:250px;
+	position:absolute;
+	box-shadow: 10px 8px 8px -5px orange;
+
+}
+.decoracion{
+	top:150px;
+	right:0px;
+	position:absolute;
+}
+.palmeras{
+	top:550px;
+	left:50px;
+	position:absolute;
+
+}
+
+.b{
+	width: 400px;
+	height: 400px;
+	position:absolute;
+	left: 30px;
+	top:360px;
+	color: white;
+
+}
+
+.foot{
+	position: absolute;
+	top:730px;
+	left:0px;
+	background-color: orange;
+	width: 1500px;
+	height: 50px;
+	
+}
+.foot_h3{
+	top:-15px;
+position: absolute;
+text-decoration: underline;
+	color: white;
+	width: 1500px;
+	height: 50px;
+	font-family: cursive;
+}

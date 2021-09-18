@@ -1,0 +1,182 @@
+html{
+	background-color: rgb(20, 149, 180);
+}
+.header {
+	background-image: url("fondo_P1.jpg");
+	width: 1500px;
+	height: 90px;
+	position: absolute;
+	left: 100px;
+	text-align: center;
+	color:white;
+	border-radius: 6px 6px 0px 0px;
+
+}
+ .titulo{
+ 	font-size: 50px;
+ 	font-family: fantasy;
+}
+.logo_img{
+	position: absolute;
+	Left:15px;
+	top:6px;
+}
+nav{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	left: 15px;
+	top: 85px;
+}
+nav ul{
+	list-style: none;
+	margin: 15px 15px 5px 15px;
+	padding: 0px 0px;
+}
+nav ul li{
+	float:left;
+	margin-right:20px;
+}
+nav ul li a:hover{
+	font-size: 25px;
+	color:orange;
+	font-weight: bold;
+}
+
+.yo{
+	position:absolute;
+	top:365px;
+	right:10px;
+}
+.y1{
+	position:absolute;
+	top:130px;
+	right:325px;
+}
+.u{
+	background-color: aqua;
+	font-family: cursive;
+	position:absolute;
+	top:460px;
+	left:10px;
+	color: orange;
+}
+.r{
+	background-color: orange;
+	width: 750px;
+	position:absolute;
+	top:530px;
+	left:10px;
+	color: white;
+}
+.y2{
+	position:absolute;
+	top:500px;
+	left:820px;
+}
+.y3{
+	position:absolute;
+	top:150px;
+	right:630px;
+}
+
+.foot{
+	position: absolute;
+	top:850px;
+	left:0px;
+	background-color: orange;
+	width: 1500px;
+	height: 50px;
+	
+}
+.o{
+	font-family: cursive;
+	position: absolute;
+	top:100px;
+	right:80px;
+	background-color: orange;
+
+}
+.inf{
+	width: 300px;
+	position: absolute;
+	top:160px;
+	right:10px;
+
+}
+.simb1{
+	position: absolute;
+	top:800px;
+	right: 260px;
+
+}
+
+.simb2{
+	position: absolute;
+	top:870px;
+	right: 260px;
+
+}
+.simb3{
+	position: absolute;
+	top:940px;
+	right: 260px;
+
+}
+.simb4{
+	position: absolute;
+	top:1010px;
+	right: 260px;
+
+}
+
+.t{
+	position: absolute;
+	top:780px;
+	right:80px;
+
+}
+.t2{
+	position: absolute;
+	top:850px;
+	right:60px;
+}
+.t3{
+	position: absolute;
+	top:920px;
+	right:120px;
+}
+.t4{
+	position: absolute;
+	top:990px;
+	right:80px;
+}
+.ti{
+	background-color: orange;
+	position: absolute;
+	top:680px;
+	right:60px;
+}
+.decoracion{
+	position: absolute;
+	top:830px;
+	left:0px;
+}
+.foot{
+	position: absolute;
+	top:1100px;
+	left:0px;
+	background-color: orange;
+	width: 1500px;
+	height: 50px;
+	
+}
+.foot_h3{
+	top:-15px;
+position: absolute;
+text-decoration: underline;
+	color: white;
+	width: 1500px;
+	height: 50px;
+	font-family: cursive;
+	}
